@@ -1,0 +1,33 @@
+_repo: Poultry-diseases-Causes-symptoms-and-treatment-with-notes-on-post-mortem-examinations_67465
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wortley, E. J. (E. Jocelyn)
+    alias: Wortley, Edward Jocelyn
+    birthdate: 1884
+    deathdate: 1942
+    gutenberg_agent_id: '54279'
+    url: http://www.gutenberg.org/2009/agents/54279
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67465'
+  lccn: '15014547'
+language: en
+pgterms:marc905: 20070813205754wortley
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Bryan Ness, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Orange Judd company,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poultry -- Diseases'
+- !lcc 'SF'
+- GITenberg
+title: "Poultry diseases\r\nCauses, symptoms and treatment, with notes on post-mortem\
+  \ examinations"
+url: http://www.gutenberg.org/ebooks/67465
